@@ -1,0 +1,1 @@
+print ('miraj','nayma', sep='+++')
